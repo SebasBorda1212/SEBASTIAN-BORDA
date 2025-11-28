@@ -1,0 +1,19 @@
+{
+  "name": "sebastian-borda",
+  "version": "1.0.0",
+  "description": "hola ",
+  "main": "hola_mundo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SebasBorda1212/SEBASTIAN-BORDA.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SebasBorda1212/SEBASTIAN-BORDA/issues"
+  },
+  "homepage": "https://github.com/SebasBorda1212/SEBASTIAN-BORDA#readme"
+}
